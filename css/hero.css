@@ -1,15 +1,27 @@
 .hero {
+  padding: 188px 141px;
   background-color: #2e2f42;
 }
 
 .hero-title {
+  margin: auto;
+  margin-bottom: 48px;
+  max-width: 496px;
   font-size: 56px;
-  line-height: 1.07143;
+  line-height: 1.07;
   text-align: center;
   color: #fff;
 }
 
 .hero-button {
+  display: block;
+  align-items: center;
+  justify-content: center;
+
+  margin: auto;
+  border-radius: 4px;
+  padding: 16px 32px;
+
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
