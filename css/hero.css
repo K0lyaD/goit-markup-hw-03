@@ -17,6 +17,7 @@
   display: block;
   align-items: center;
   justify-content: center;
+  border: none;
 
   margin: auto;
   border-radius: 4px;

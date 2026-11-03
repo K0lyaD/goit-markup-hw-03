@@ -7,12 +7,13 @@
 .portfolio-list {
   display: flex;
   flex-wrap: wrap;
-  gap: 24px;
+  gap: 48px 24px;
 }
+
 .portfolio-card-item {
-  margin-top: 48px;
   max-width: calc((100% - 24px * 2) / 3);
 }
+
 .portfolio-card-pic {
 }
 
@@ -25,6 +26,7 @@
 .portfolio-card-title {
   margin-bottom: 8px;
 }
+
 .portfolio-card-category {
   color: #434455;
 }
