@@ -1,0 +1,23 @@
+.team {
+  background: #f4f4fd;
+}
+
+.team-title {
+}
+
+.team-list {
+}
+.team-item {
+  background: #fff;
+}
+.team-avatar {
+}
+
+.team-name {
+  text-align: center;
+}
+
+.team-position {
+  text-align: center;
+  color: #434455;
+}
